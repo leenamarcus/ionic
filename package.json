@@ -1,0 +1,19 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenamarcus/ionic.git"
+  },
+  "author": "vasanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenamarcus/ionic/issues"
+  },
+  "homepage": "https://github.com/leenamarcus/ionic#readme"
+}
